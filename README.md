@@ -5,6 +5,7 @@ for how the downloads plugin and site plugin are configured.
 
 # Getting started
 
+
 * Fork this project
 * Update the `pom.xml` file `<url>` element to be the address of your fork
 * Optionally update `<scm>` and `<developers>` section as well to have the information for your fork
